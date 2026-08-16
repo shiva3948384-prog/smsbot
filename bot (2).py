@@ -45,7 +45,7 @@ if not TOKEN:
 BASE_URL = f"https://api.telegram.org/bot{TOKEN}"
 FILE_URL = f"https://api.telegram.org/file/bot{TOKEN}/"
 
-OWNER_ID = 8889528816  # <-- Apna Telegram User ID yahan dalo
+OWNER_ID = 8324356832  # <-- Apna Telegram User ID yahan dalo
 BOT_USERNAME = "@Visitofpfbot"
 DB_FILE = "bot_data.json"
 
